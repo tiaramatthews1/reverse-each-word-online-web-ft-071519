@@ -1,6 +1,6 @@
 
 def reverse_each_word(string)
-  .each do
+  
     puts
 end
 
