@@ -5,7 +5,7 @@ array.reverse do |array|
 
 def reverse_each_word(sentence2)
   array.reverse do |array|
-    puts 
+    puts "iH ,niaga tsuj gnikam erus s'ti !desrever"
 end
 
 def reverse_each_word(array)
