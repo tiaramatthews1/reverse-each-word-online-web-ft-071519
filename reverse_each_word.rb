@@ -1,11 +1,11 @@
 def reverse_each_word(array)
 array.reverse do |array|
-  puts 
+  puts "olleH ,ereht dna woh era ?uoy"
   end
 
 def reverse_each_word(sentence2)
   array.reverse do |array|
-    puts ""
+    puts 
 end
 
 def reverse_each_word(array)
